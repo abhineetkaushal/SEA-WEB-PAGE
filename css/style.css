@@ -7,7 +7,7 @@ header{
    background-image: url(https://image.freepik.com/free-photo/soft-wave-sandy-beach_28668-189.jpg);
    background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -51,7 +51,7 @@ header{
         background: #926239;
     color: #fff;
     height: 160px;
-    display: inline-block;
+   
     width: 33%;
     padding: 20px;
     margin: 0;
@@ -60,7 +60,6 @@ header{
         color:black;
         background-color: #f9f9f9;;
         height: 160px;
-        display: inline-block;
     width: 33%;
     padding: 20px;
     margin: 0;
@@ -72,7 +71,6 @@ header{
         color: #fff;
         height: 160px;
     width: 33%;
-    display: inline-block;
     padding: 20px;
     margin: 0;
 
